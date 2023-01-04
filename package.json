@@ -18,7 +18,7 @@
         "url": "https://github.com/Aman9723/json-server/issues"
     },
     "homepage": "https://github.com/Aman9723/json-server#readme",
-    "devDependencies": {
+    "dependencies": {
         "json-server": "^0.17.1"
     }
 }
