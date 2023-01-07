@@ -1,4 +1,13 @@
 {
+    "users": [
+        {
+            "id": 1,
+            "email": "amansingh9723chauhan@gmail.com",
+            "username": "aman",
+            "password": "123",
+            "tasks": ["trading", "gaming", "coding", "fitness"]
+        }
+    ],
     "cars": [
         {
             "id": 1,
